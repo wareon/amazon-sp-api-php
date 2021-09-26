@@ -1,5 +1,5 @@
 {
-    "name": "clousale/amazon-sp-api-php",
+    "name": "wareon/amazon-sp-api-php",
     "description": "",
     "keywords": [
         "api",
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.2",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
